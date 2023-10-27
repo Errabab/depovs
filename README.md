@@ -1,7 +1,7 @@
 # Devops
 
 <!--foto de portada -->  
-![foto](introducciondepovs.png)
+![foto](imágenes/cursointroducciondepovs.png)
 ## Explicacion y teoria.
 1. Introducción.
 2. ¿Qué es un administrador de sistemas?
